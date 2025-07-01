@@ -6,7 +6,7 @@ You can drop these tools into your agentic framework and get features like searc
 
 Designed for **easy integration with LangChain, LangGraph, AutoGen, CrewAI, and custom agent frameworks**.
 
-*No machine learning here, just simple APIs built for agents*
+*No machine learning here, just simple APIs built for AI agents*
 
 In this repository I've included `.env`-based auth, tests for endpoints, and plug-and-play integration.
 
@@ -48,8 +48,8 @@ Tools that are a little more difficult (more prompt-engineering heavy, still wor
 ## Installation
 
 1) Clone the repository either:
-- The root of your `/Projects` folder so reusability
-- Inside the repository of your agentic framework
+- The root of your `/Projects` folder (for reusability)
+- Inside the repository of your agentic framework (for single project use)
 
 ```bash
 git clone https://github.com/yourname/agent-tools.git
